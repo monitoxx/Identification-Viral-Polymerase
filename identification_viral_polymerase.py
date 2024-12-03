@@ -1,11 +1,11 @@
-'''
+"""
 Please, read the README.md and LICENSE files beforehand in my GitHub repository:
 https://github.com/monitoxx/Identification-Viral-Polymerase
 
 The following code was made by me (https://github.com/monitoxx) , with some help from Gemini Assistant for finding errors.
 The comments provide a really self-explanatory experience from now on.
 Reach me at my email for any doubts: ljimenezbe@unal.edu.co
-'''
+"""
 def find_polymerase_sequence_in_fasta(fasta_file, target_sequence):
     """
     Finds a target nucleotide sequence within the FASTA file.
