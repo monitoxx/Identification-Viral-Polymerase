@@ -21,11 +21,13 @@ The steps for downloading the target sequence from NCBI are:
 ## Example of the execution of the program and its outputs as a .txt file:
 
 #### Using the same file where the target sequence was taken from, but without the range configuration:
-![image](https://github.com/user-attachments/assets/3f833014-e6a4-478d-9a64-ee182a6a702e)
+![image](https://github.com/user-attachments/assets/d03aee7e-7899-4426-bbf4-fb424d7d8902)
+
 
 
 #### Using another file:
-![image](https://github.com/user-attachments/assets/569f6c15-24e9-421c-a390-f80bfce544f3)
+![image](https://github.com/user-attachments/assets/b8b7b399-793a-4433-ba45-2b9578d1a56c)
+
 
 
 ### I also uploaded several fasta files usefull for running the code:
