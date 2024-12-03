@@ -33,4 +33,4 @@ The steps for downloading the target sequence from NCBI are:
 #### *target_seq_2.fasta* the target sequence used, with range 600-700
 
 
-## DISCLOSURE: for this program to work correctly, there needs to be a 100% identity between the sequences to compare.
+## DISCLAIMER: for this program to work correctly, there needs to be a 100% identity between the sequences to compare.
